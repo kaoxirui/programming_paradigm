@@ -1,2 +1,8 @@
-# programming_paradigm
-learning programming paradigm
+After cloning
+
+```
+mkdir build
+cd build
+cmake ../Code
+make
+```
